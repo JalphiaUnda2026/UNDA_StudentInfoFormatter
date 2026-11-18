@@ -11,3 +11,4 @@ print("Name Code:", full_name)
 print("Section:", section)
 print("Favorite Subject:", favorite_sub)
 print("Character Count:", len(full_name))
+
